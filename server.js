@@ -76,6 +76,13 @@ let listings = [
         description: "CS2 Retardi - Full Video. feat Kodytek.",
         image: "https://github.com/LomkaKa1ff/Funny-Gifs/blob/main/mS6sM3lSEF4-MQ.jpg?raw=true"
     },
+    {
+        id: 2,
+        name: "Funny Snails",
+        price: 190000,
+        description: "Funny Snails + 1 zdarma.",
+        image: "https://github.com/LomkaKa1ff/Funny-Gifs/blob/main/obr%C3%A1zek_2026-03-25_114003355.png?raw=true"
+    },
 ]
 
 let cart = [];
